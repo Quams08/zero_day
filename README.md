@@ -1,1 +1,1 @@
-Using git on local pc
+Hello Ubuntu
